@@ -6,6 +6,6 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = ["plus_one",
+members = ["palindrome_number","plus_one",
   "search_insert_position"
 , "three_sum"]
